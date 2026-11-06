@@ -1,0 +1,10 @@
+# Local dataset (too large for a regular GitHub repository)
+/AIML Dataset.csv
+
+# Generated trained model
+/fraud_detection_model.joblib
+
+# macOS and Python-generated files
+.DS_Store
+__pycache__/
+*.py[cod]
